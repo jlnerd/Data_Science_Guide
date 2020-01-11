@@ -10,17 +10,21 @@ So you've decided to figure out what AI, machine learning, and data science is a
 Note: This doc/guide is a work-in-progress. Feel free to contact me with any suggestions/comments/requests. My hope is that some day it will be sufficiently developed to the point where I will publish it on [Towards Data Science](https://towardsdatascience.com)
 
 ## Approach
-To really dive-deep in ML, you need to immerse yourself in it. There are 3 key steps you should take towards this end: 
+To really dive-deep in ML, you need to immerse yourself in it. There are 4 key steps you should take towards this end: 
 
 1. Start following [Towards Data Science](https://towardsdatascience.com)
 2. Take massive online open courses (MOOCs) while simultaneously working on Kaggle projects.
-3. Always look for ways to apply your new ML/data science techniques to your day time job
+3. Build your own API/package & use it in your projects and/or at work.
+4. Always look for ways to apply your new ML/data science techniques to your day time job
 
 ## Why should you follow Towards Data Science? 
 There are many data science & machine learning blogs out there, and many of them are outstanding. In particular, I have found Jason Brownlee's [Machine Learning Mastery](https://machinelearningmastery.com) blog to be a great resource for many things. However, what's so great about Towards Data Science is that there are countless authors publish articles that cover all of data science & ML, while simultaneously offering different perspectives on the same subject. Furthermore, Toward's Data Science is a great filter for academic literature, meaning that the high-level articles published there often reference various papers which could be read if you wish to dive deeper in one area or another.
 
 Below are some good articles to get you started:
 COMING SOON...
+
+## Why Build Your Own API/Package
+One of the key [principles of programming](https://www.makeuseof.com/tag/basic-programming-principles/) is DRY (Don't Repeat Yourself). This is probably actually a good principle to live by in general, since repeating yourself is a waste of time. In data science & ML, particularly in more basic problems, the steps you take to do some explorarory data analysis (EDA) and build and test a model are often quite similar. Thus, I recommend you start building your own API/Package to try to automate these steps for your own work-flows. Aside minimizing the number of times you repeat yourself, this will also start to get you familiar with more Dev-Ops side of things, such as building a package, running unit tests, code coverage, and much more. Furthermore, your API will be a good reference point where you can point people to see some code you've independantly built, and perhaps one day you'll even be able to use it in practice problems you may be given for job interviews. The API I built, and continue to build on occasion is [pyDSlib](https://github.com/jlnerd/pyDSlib). Feel free to go check it out if you're curious.
 
 ## Massive Online Open Courses (MOOCs) Overview
 MOOCs are the best place to start if you're trying to get into data science/ML. The data science/ML community in particular seems to have really outstanding MOOCs which give you the basic knowledge you need to go off and start working on projects independantly. There are basically 5 big MOOC companies heavily competing:
