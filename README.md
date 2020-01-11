@@ -5,19 +5,19 @@ Author: John T. Leonard </br>
 Contact: jtleona01@gmail.com
 
 ## Introduction
-So you've decided to figure out what AI, machine learning, and data science is all about. Congratulations! This is going to be a long journey, but, as (Hari Seldon)[https://en.wikipedia.org/wiki/Hari_Seldon] said, "[is] there anything more exciting in life than seeking answers?". Whether you're actually looking for a career change, or just want to learn something new, I think you'll find that the more data science & ML you learn, the more applications you'll find to apply it in your personal and/or work related projects. So, best of luck & happy learning!
+So you've decided to figure out what AI, machine learning, and data science is all about. Congratulations! This is going to be a long journey, but, as [Hari Seldon](https://en.wikipedia.org/wiki/Hari_Seldon) said, "[is] there anything more exciting in life than seeking answers?". Whether you're actually looking for a career change, or just want to learn something new, I think you'll find that the more data science & ML you learn, the more applications you'll find to apply it in your personal and/or work related projects. So, best of luck & happy learning!
 
-Note: This doc/guide is a work-in-progress. Feel free to contact me with any suggestions/comments/requests. My hope is that some day it will be sufficiently developed to the point where I will publish it on (Towards Data Science)[https://towardsdatascience.com]
+Note: This doc/guide is a work-in-progress. Feel free to contact me with any suggestions/comments/requests. My hope is that some day it will be sufficiently developed to the point where I will publish it on [Towards Data Science](https://towardsdatascience.com)
 
 ## Approach
 To really dive-deep in ML, you need to immerse yourself in it. There are 3 key steps you should take towards this end: 
 
-1. Start following (Towards Data Science)[https://towardsdatascience.com]
+1. Start following [Towards Data Science](https://towardsdatascience.com)
 2. Take massive online open courses (MOOCs) while simultaneously working on Kaggle projects.
 3. Always look for ways to apply your new ML/data science techniques to your day time job
 
 ## Why should you follow Towards Data Science? 
-There are many data science & machine learning blogs out there, and many of them are outstanding. In particular, I have found Jason Brownlee's (Machine Learning Mastery)[https://machinelearningmastery.com] blog to be a great resource for many things. However, what's so great about Towards Data Science is that there are countless authors publish articles that cover all of data science & ML, while simultaneously offering different perspectives on the same subject. Furthermore, Toward's Data Science is a great filter for academic literature, meaning that the high-level articles published there often reference various papers which could be read if you wish to dive deeper in one area or another.
+There are many data science & machine learning blogs out there, and many of them are outstanding. In particular, I have found Jason Brownlee's [Machine Learning Mastery](https://machinelearningmastery.com) blog to be a great resource for many things. However, what's so great about Towards Data Science is that there are countless authors publish articles that cover all of data science & ML, while simultaneously offering different perspectives on the same subject. Furthermore, Toward's Data Science is a great filter for academic literature, meaning that the high-level articles published there often reference various papers which could be read if you wish to dive deeper in one area or another.
 
 Below are some good articles to get you started:
 COMING SOON...
@@ -25,10 +25,10 @@ COMING SOON...
 ## Massive Online Open Courses (MOOCs) Overview
 MOOCs are the best place to start if you're trying to get into data science/ML. The data science/ML community in particular seems to have really outstanding MOOCs which give you the basic knowledge you need to go off and start working on projects independantly. There are basically 5 big MOOC companies heavily competing:
 
-1. (Coursera)[https://www.coursera.org]
-2. (Data Camp)[https://www.datacamp.com]
-3. (Udemy)[https://www.udemy.com]
-4. (Udacity)[https://www.udacity.com]
+1. [Coursera](https://www.coursera.org)
+2. [Data Camp](https://www.datacamp.com)
+3. [Udemy](https://www.udemy.com)
+4. [Udacity](https://www.udacity.com)
 
 In my opinion, Coursera & Data Camp are the best. The courses are the most well structured with high quality instructional videos, examples, and practice problems. Of course, things do very somewhat from course to course within each of the MOOC companies, so if you see something interesting offered by any of these, you should definateley go check it out.
 
@@ -39,7 +39,7 @@ Aside from MOOCs, many Universities offer more thorough certicate programs, at a
 ## Guide to MOOCs
 Below are the MOOCs I recommend taking. They are roughly ordered, but you should feel free to jump around a bit if you'd like. Also, while you're working on MOOCs, try to work on a Kaggle competition/project as well. The Kaggle competitions I recommend are listed in the next section
 
-1. (Coursera: Machine Learning, Andrew Ng, Stanford) [https://www.coursera.org/learn/machine-learning]
+1. [Coursera: Machine Learning, Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)
 * Data Camp
 * Medium's Towards Data Science
 * Kaggle
