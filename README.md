@@ -1,7 +1,7 @@
 # Data_Science_Guide
 A High-level guide to getting started and diving deep into data science &amp; machine learning
 
-Author: John T. Leonard
+Author: John T. Leonard </br>
 Contact: jtleona01@gmail.com
 
 ## Introduction
