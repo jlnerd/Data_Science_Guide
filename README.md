@@ -49,4 +49,6 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
 * Kaggle
 
 ## Guide to Kaggle
-COMING SOON
+Below are the Kaggle projects/competitions I recommend taking. As with the MOOCs, they are roughly sorted in the order they should be completed. When working on Kaggle competitions, you should push your results to your public github. This will beef-up your github account while giving you practice of working with git and managing projects with models that may require large datasets and/or outputs large files that cannot be saved in git. Also, be sure to checkout the Notebooks published on each project page. Seeing how other data scientists/ML experts do exploratory data analysis, feature engineering, model selection, and more, is one of the key reasons why doing projects via Kaggle can be so effective as a learning technique.
+
+1. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
