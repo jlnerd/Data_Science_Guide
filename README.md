@@ -40,6 +40,13 @@ Another commonly asked question related to MOOCs is whether or not the certifica
 
 Aside from MOOCs, many Universities offer more thorough certicate programs, at a cost. I've taken such a program, and I was rather disapointed. One of the problems with my particular course was that it focused on using R. Just don't use R. It's on it's way out and honestly it's a waste of your time to learn it. The other problem, and arguably the more important problem with these kinds of programs from acredited universities, is that they prevent you from focusing your learning on areas you are most uncertain about or most interested in. In my experience, you can more quickly get up to speed if you have the flexibility to decide yourself what area you need to dive deeper on.
 
+One question I found myself asking when I first started getting into ML was "which types of models should I really focus on". There are so many models out there and it can be a bit overwhelming at first if you think you need to be a master of all of them and understand each and every hyperparameter/architecture within each model. Fortunately, there a really just 2 types of general model styles/classes people are heavily using today:
+
+1. Neural Networks (via [Tensorflow w/ Keras](https://www.tensorflow.org/guide/keras)) 
+2. Gradient Boosted Decision Trees (via [xgboost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html))
+
+It's super important to learn about SVMs, KNNs, and all the other models out there, but you should really focus on becoming an expert in using Tensorflow & xgboost, as these two APIs have the widest use in industry. Also, it is of note that you rarely hear of decisions trees in the press, however xgboost is an extremely powerful model which can often perform better than neural networks (simpler model, less prone to overfitting, faster prediction, etc.) on many tasks, so don't buy into all the hype completely.
+
 ## Guide to MOOCs
 Below are the MOOCs I recommend taking. They are roughly ordered, but you should feel free to jump around a bit if you'd like. Also, while you're working on MOOCs, try to work on a Kaggle competition/project as well. The Kaggle competitions I recommend are listed in the next section
 
