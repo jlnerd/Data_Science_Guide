@@ -52,10 +52,10 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
 
 1. [Coursera: Machine Learning, Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)
 2. [DataCamp: Career Track: Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
-    2.1. [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-    2.2. [Intermediate Python](https://www.datacamp.com/courses/intermediate-python-for-data-science)
-    2.3. [Project: TV, Halftime Shows, and the Big Game](https://www.datacamp.com/projects/684)
-    2.4.
+    * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+    * [Intermediate Python](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+    * [Project: TV, Halftime Shows, and the Big Game](https://www.datacamp.com/projects/684)
+    
 3. [Coursera: Specialization: Deep Learning, deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
     3.1
 * Data Camp
