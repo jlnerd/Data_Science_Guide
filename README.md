@@ -51,6 +51,13 @@ It's super important to learn about SVMs, KNNs, and all the other models out the
 Below are the MOOCs I recommend taking. They are roughly ordered, but you should feel free to jump around a bit if you'd like. Also, while you're working on MOOCs, try to work on a Kaggle competition/project as well. The Kaggle competitions I recommend are listed in the next section
 
 1. [Coursera: Machine Learning, Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)
+2. [DataCamp: Career Track: Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+    2.1. [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+    2.2. [Intermediate Python](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+    2.3. [Project: TV, Halftime Shows, and the Big Game](https://www.datacamp.com/projects/684)
+    2.4.
+3. [Coursera: Specialization: Deep Learning, deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
+    3.1
 * Data Camp
 * Medium's Towards Data Science
 * Kaggle
