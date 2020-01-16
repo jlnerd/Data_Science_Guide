@@ -13,7 +13,7 @@ Note: This doc/guide is a work-in-progress. Feel free to contact me with any sug
 To really dive-deep in ML, you need to immerse yourself in it. There are 4 key steps you should take towards this end: 
 
 1. Start following [Towards Data Science](https://towardsdatascience.com)
-2. Take massive online open courses (MOOCs) while simultaneously working on Kaggle projects.
+2. Take massive online open courses (MOOCs) while simultaneously working on [Kaggle](https://www.kaggle.com) projects.
 3. Build your own API/package & use it in your projects and/or at work.
 4. Always look for ways to apply your new ML/data science techniques to your day time job
 
@@ -55,12 +55,36 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
     * [Intermediate Python](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     * [Project: TV, Halftime Shows, and the Big Game](https://www.datacamp.com/projects/684)
-    
-3. [Coursera: Specialization: Deep Learning, deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
-    3.1
-* Data Camp
-* Medium's Towards Data Science
-* Kaggle
+    * [Python Data Science Toolbox (Part1)] (https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+    * [Python Data Science Toolbox (Part2)] (https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
+    * [Importing Data in Python (Part1)] (https://www.datacamp.com/courses/importing-data-in-python-part-1)
+    * [Importing Data in Python (Part2)] (https://www.datacamp.com/courses/importing-data-in-python-part-2)
+    * [Cleaning Data in Python] (https://www.datacamp.com/courses/cleaning-data-in-python)
+    * [Pandas Foundations] (https://www.datacamp.com/courses/pandas-foundations)
+    * [Manipulating DataFrames with pandas] (https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+    * [Merging DataFrames with pandas] (https://www.datacamp.com/courses/merging-dataframes-with-pandas)
+    * [Analyzing Police Activity with pandas] (https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
+    * [Introduction to SQL] (https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+    * [Introduction to Relational Databases in SQL] (https://www.datacamp.com/courses/introduction-to-relational-databases-in-sql)
+    * [Introduction to Data Visualization in Python] (https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
+    * [Interactive Data Visualization with Bokeh] (https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
+    * [Statistical Thinking in Python (Part 1)] (https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+    * [Statistical Thinking in Python (Part 2)] (https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
+    * [Joining Data in SQL] (https://www.datacamp.com/courses/joining-data-in-postgresql)
+    * [Introduction to Shell] (https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+    * [Conda Essentials] (https://www.datacamp.com/courses/conda-essentials)
+    * [Supervised Learning with scikit-learn] (https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+    * [Machine Learning with the Experts: School Budgets] (https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
+    * [Unsupervised Learning in Python] (https://www.datacamp.com/courses/unsupervised-learning-in-python)
+    * [Machine Learning with Tree-Based Models in Python] (https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+    * [Introduction to Deep Learning in Python] (https://www.datacamp.com/courses/deep-learning-in-python)
+    * [Network Analysis in Python (Part 1)] (https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+3. [Coursera: Specialization: Deep Learning, deeplearning.ai] (https://www.coursera.org/specializations/deep-learning)
+    * [Neural Networks and Deep Learning] (https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+    * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization] (https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+    * [Structuring Machine Learning Projects] (https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+    * [Convolutional Neural Networks] (https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+    * [Sequence Models] (https://www.coursera.org/learn/nlp-sequence-models)
 
 ## Guide to Kaggle
 Below are the Kaggle projects/competitions I recommend taking. As with the MOOCs, they are roughly sorted in the order they should be completed. When working on Kaggle competitions, you should push your results to your public github. This will beef-up your github account while giving you practice of working with git and managing projects with models that may require large datasets and/or outputs large files that cannot be saved in git. Also, be sure to checkout the Notebooks published on each project page. Seeing how other data scientists/ML experts do exploratory data analysis, feature engineering, model selection, and more, is one of the key reasons why doing projects via Kaggle can be so effective as a learning technique.
