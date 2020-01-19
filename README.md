@@ -51,6 +51,7 @@ It's super important to learn about SVMs, KNNs, and all the other models out the
 Below are the MOOCs I recommend taking. They are roughly ordered, but you should feel free to jump around a bit if you'd like. Also, while you're working on MOOCs, try to work on a Kaggle competition/project as well. The Kaggle competitions I recommend are listed in the next section
 
 1. [Coursera: Machine Learning, Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)
+    * Comments: This is a classic intro. to ML course. Almost everyone I've spoken to who moved into ML from another field said they took this course. It's pretty heavy on MatLab, which is a bit strange, but don't focus too much on learning MatLab, since all the other courses will focus on Python.
 2. [DataCamp: Career Track: Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
     * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
     * [Intermediate Python](https://www.datacamp.com/courses/intermediate-python-for-data-science)
@@ -80,11 +81,42 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
     * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 3. [Coursera: Specialization: Deep Learning, deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
+    * Comments: This series of courses will get you ready to use Tensorflow. In my opinion, Tensorflow 1.x was a pretty confusing API. There so many ways to do the same thing and just getting a model setup was a bit tedious. Tensorflow 2.x integrated another super popular neural network API, Keras, into its main code, and focused on using the much more elegant higher-level architecture building style that keras provides. Many of the early courses focused on neural networks will leverage Tensorflow 1.x and may show you some non-ideal styles of building models, however as you progress you'll start to leverage the keras-style of model definition, which will greatly simplify things.
     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
     * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
     * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
     * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
     * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+3. PLACEHOLDER
+4. PLACEHOLDER
+5. PLACEHOLDER
+6. PLACEHOLDER
+7. PLACEHOLDER
+8. PLACEHOLDER
+9. PLACEHOLDER
+10. PLACEHOLDER
+11. PLACEHOLDER
+12. PLACEHOLDER
+13. PLACEHOLDER
+14. PLACEHOLDER
+15. PLACEHOLDER
+16. PLACEHOLDER
+17. PLACEHOLDER
+18. PLACEHOLDER
+19. PLACEHOLDER
+20. PLACEHOLDER
+21. PLACHOLEDER
+22. (iOS App Development with Swift Specialization)[https://www.coursera.org/specializations/app-development]
+    * Comments: So, you've done it! You can fetch data, clean it, run some feature engineering and model selection and save your best model. What's the next step? Deploying the model! There are many ways to deploy a model, however one of the most interesting/exciting ways to deploy the model would be to deploy it to an app. For this reason, we'll start by learning how to build general iOS Apps in Swift (this will also get you exposure to a new programming language), Then, in the next specialization, we'll learn how to use TensorFlow Lite to deploy pre-trained models to Java & Swift.
+    * Introduction To Swift Programming
+    * iOS App Development Basics
+    * App Design and Development for iOS
+    * Build Your Own iOS App
+23. (TensorFlow: Data and Deployment)[https://www.coursera.org/specializations/tensorflow-data-and-deployment]
+    * Browser-based Models with TensorFlow.js
+    * Device-based Models with TensorFlow Lite
+    * Data Pipelines with TensorFlow Data Services
+    * Advanced Deployment Scenarios with TensorFlow
 
 ## Guide to Kaggle
 Below are the Kaggle projects/competitions I recommend taking. As with the MOOCs, they are roughly sorted in the order they should be completed. When working on Kaggle competitions, you should push your results to your public github. This will beef-up your github account while giving you practice of working with git and managing projects with models that may require large datasets and/or outputs large files that cannot be saved in git. Also, be sure to checkout the Notebooks published on each project page. Seeing how other data scientists/ML experts do exploratory data analysis, feature engineering, model selection, and more, is one of the key reasons why doing projects via Kaggle can be so effective as a learning technique.
