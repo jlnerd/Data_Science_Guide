@@ -106,13 +106,13 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
 19. PLACEHOLDER
 20. PLACEHOLDER
 21. PLACHOLEDER
-22. (iOS App Development with Swift Specialization)[https://www.coursera.org/specializations/app-development]
+22. [iOS App Development with Swift Specialization](https://www.coursera.org/specializations/app-development)
     * Comments: So, you've done it! You can fetch data, clean it, run some feature engineering and model selection and save your best model. What's the next step? Deploying the model! There are many ways to deploy a model, however one of the most interesting/exciting ways to deploy the model would be to deploy it to an app. For this reason, we'll start by learning how to build general iOS Apps in Swift (this will also get you exposure to a new programming language), Then, in the next specialization, we'll learn how to use TensorFlow Lite to deploy pre-trained models to Java & Swift.
     * Introduction To Swift Programming
     * iOS App Development Basics
     * App Design and Development for iOS
     * Build Your Own iOS App
-23. (TensorFlow: Data and Deployment)[https://www.coursera.org/specializations/tensorflow-data-and-deployment]
+23. [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
     * Browser-based Models with TensorFlow.js
     * Device-based Models with TensorFlow Lite
     * Data Pipelines with TensorFlow Data Services
