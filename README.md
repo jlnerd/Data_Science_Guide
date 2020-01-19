@@ -50,7 +50,7 @@ It's super important to learn about SVMs, KNNs, and all the other models out the
 ## Guide to MOOCs
 Below are the MOOCs I recommend taking. They are roughly ordered, but you should feel free to jump around a bit if you'd like. Also, while you're working on MOOCs, try to work on a Kaggle competition/project as well. The Kaggle competitions I recommend are listed in the next section
 
-1. [Coursera: Machine Learning, Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)<\br>
+1. [Coursera: Machine Learning, Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)</br>
 *Comments: This is a classic intro. to ML course. Almost everyone I've spoken to who moved into ML from another field said they took this course. It's pretty heavy on MatLab, which is a bit strange, but don't focus too much on learning MatLab, since all the other courses will focus on Python.*
 2. [DataCamp: Career Track: Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
     * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
@@ -79,7 +79,7 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
     * [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
     * [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
-    * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)<\br>
+    * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)</br>
 3. [Coursera: Specialization: Deep Learning, deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
 *Comments: This series of courses will get you ready to use Tensorflow. In my opinion, Tensorflow 1.x was a pretty confusing API. There so many ways to do the same thing and just getting a model setup was a bit tedious. Tensorflow 2.x integrated another super popular neural network API, Keras, into its main code, and focused on using the much more elegant higher-level architecture building style that keras provides. Many of the early courses focused on neural networks will leverage Tensorflow 1.x and may show you some non-ideal styles of building models, however as you progress you'll start to leverage the keras-style of model definition, which will greatly simplify things. *
     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
@@ -106,7 +106,7 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
 19. PLACEHOLDER
 20. PLACEHOLDER
 21. PLACHOLEDER
-22. [iOS App Development with Swift Specialization](https://www.coursera.org/specializations/app-development)<\br>
+22. [iOS App Development with Swift Specialization](https://www.coursera.org/specializations/app-development)</br>
 *Comments: So, you've done it! You can fetch data, clean it, run some feature engineering and model selection and save your best model. What's the next step? Deploying the model! There are many ways to deploy a model, however one of the most interesting/exciting ways to deploy the model would be to deploy it to an app. For this reason, we'll start by learning how to build general iOS Apps in Swift (this will also get you exposure to a new programming language), Then, in the next specialization, we'll learn how to use TensorFlow Lite to deploy pre-trained models to Java & Swift.*
     * Introduction To Swift Programming
     * iOS App Development Basics
