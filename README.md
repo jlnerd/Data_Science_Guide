@@ -33,6 +33,7 @@ MOOCs are the best place to start if you're trying to get into data science/ML. 
 2. [Data Camp](https://www.datacamp.com)
 3. [Udemy](https://www.udemy.com)
 4. [Udacity](https://www.udacity.com)
+5. [edEx](https://www.edx.org)
 
 In my opinion, Coursera & Data Camp are the best. The courses are the most well structured with high quality instructional videos, examples, and practice problems. Of course, things do very somewhat from course to course within each of the MOOC companies, so if you see something interesting offered by any of these, you should definateley go check it out.
 
@@ -52,9 +53,9 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
 
 1. [Coursera: Machine Learning, Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)</br>
 *This is a classic intro. to ML course. Almost everyone I've spoken to who moved into ML from another field said they took this course. It's pretty heavy on MatLab, which is a bit strange, but don't focus too much on learning MatLab, since all the other courses will focus on Python.*
-2. [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+2. [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)</br>
 *git and [GitHub](https://github.com) is a foundational part of data science and software engineering generally. It allows you to implement version control, distribute your code more easily, and offers a public record of your work for others to view and/or build on. This course will get you started with git. I recommend that for you course you take moving forward, you create a new repo. and start 'commiting' your progress to github. This will get you interacting with git more frequently and you'll likely run into some issues, particularly related to commiting large files, which will also force you to learn more about git on your own.
-3. [DataCamp: Career Track: Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+3. [DataCamp: Career Track: Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)</br>
 *DataCamp courses are generally much shorter than Coursera courses. Furthermore, DataCamp uses it's own implementation of an IPython notebook (i.e. jupyter notebook) to have short-sequences of interactive code implemented throughout the courses. While you can just go through the courses and simply use their notebook sessions, I recommend you create a repo. for each of the courses and see if you can build your own jupyter notebook that reproduces the outputs/code you are getting in DataCamps notebook environment. As for this 'Career Track' itself, this will teach some basic foundationaly skills and concepts important to data science. 
     * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
     * [Intermediate Python](https://www.datacamp.com/courses/intermediate-python-for-data-science)
@@ -83,7 +84,7 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
     * [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
     * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-4. [DataCamp: Career Track: Coding Best Practices with Python](https://www.datacamp.com/tracks/coding-best-practices-in-python)
+4. [DataCamp: Career Track: Coding Best Practices with Python](https://www.datacamp.com/tracks/coding-best-practices-in-python)</br>
 *Now that you've got some hands-on experience doing data science in Python, and (hopefully) you're super excited to learn more and answer the millions of questions about machine learning I'm sure you have, let's actually take a step back for a moment and polish up on some more foundational software skills more close to DevOps than data science. It is important to get these more foundational coding concepts down early, otherwise if you're starting to implement your own API or projects, you'll probably end up writing a lot of inefficient code which will be annoying to clean-up after you're much wiser and more experienced.
     * [Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
     * [Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
