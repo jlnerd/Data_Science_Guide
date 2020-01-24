@@ -81,17 +81,46 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
     * [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
     * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-3. [Coursera: Specialization: Deep Learning, deeplearning.ai](https://www.coursera.org/specializations/deep-learning)</br>
-*This series of courses will get you ready to use Tensorflow. In my opinion, Tensorflow 1.x was a pretty confusing API. There are so many ways to do the same thing and just getting a model setup was a bit tedious. Tensorflow 2.x integrated another super popular neural network API, Keras, into its main code, and focused on using the much more elegant higher-level architecture building style that keras provides. Many of the early courses focused on neural networks will leverage Tensorflow 1.x and may show you some non-ideal styles of building models, however as you progress you'll start to leverage the keras-style of model definition, which will greatly simplify things.*
+3. [Coding Best Practices with Python](https://www.datacamp.com/tracks/coding-best-practices-in-python)
+    * [Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
+    * [Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
+    * [Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
+    * [Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
+    * [Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
+    * [Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
+    * [Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
+4. [Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)
+    * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+    * [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
+    * [Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
+    * [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+    * [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
+    * [Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)
+    * [Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python)
+    * [Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)
+    * [Machine Learning for Time Series Data in Python](https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python)
+    * [Feature Engineering for Machine Learning in Python](https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python)
+    * [Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
+    * [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
+    * [Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)
+    * [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+    * [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+    * [Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
+    * [Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
+    * [Image Processing in Python](https://www.datacamp.com/courses/image-processing-in-python)
+    * [Image Processing with Keras in Python](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
+    * [Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)
+    * [Introduction to PySpark](https://www.datacamp.com/courses/introduction-to-pyspark)
+    * [Machine Learning with PySpark](https://www.datacamp.com/courses/machine-learning-with-apache-spark)
+    * [Winning a Kaggle Competition in Python](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
+5. [Coursera: Specialization: Deep Learning, deeplearning.ai](https://www.coursera.org/specializations/deep-learning)</br>
+*This series of courses will help you dive deeper into deep learning and neural networks. In my opinion, Tensorflow 1.x was a pretty confusing API. There are so many ways to do the same thing and just getting a model setup was a bit tedious. Tensorflow 2.x integrated another super popular neural network API, Keras, into its main code, and focused on using the much more elegant higher-level architecture building style that keras provides. Many of the early courses focused on neural networks will leverage Tensorflow 1.x and may show you some non-ideal styles of building models, however as you progress you'll start to leverage the keras-style of model definition, which will greatly simplify things.*
     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
     * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
     * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
     * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
     * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
-3. PLACEHOLDER
-4. PLACEHOLDER
-5. PLACEHOLDER
-6. PLACEHOLDER
+6. [Tensorflow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice#courses)
 7. PLACEHOLDER
 8. PLACEHOLDER
 9. PLACEHOLDER
