@@ -120,7 +120,11 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
     * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
     * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
-6. [Tensorflow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice#courses)
+6. [Coursera: Specialization: Tensorflow in Practice, deeplearning.ai](https://www.coursera.org/specializations/tensorflow-in-practice#courses)
+    * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+    * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+    * [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+    * [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 7. PLACEHOLDER
 8. PLACEHOLDER
 9. PLACEHOLDER
@@ -143,10 +147,10 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * App Design and Development for iOS
     * Build Your Own iOS App
 23. [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
-    * Browser-based Models with TensorFlow.js
-    * Device-based Models with TensorFlow Lite
-    * Data Pipelines with TensorFlow Data Services
-    * Advanced Deployment Scenarios with TensorFlow
+    * [Browser-based Models with TensorFlow.js](https://www.coursera.org/learn/browser-based-models-tensorflow)
+    * [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow)
+    * [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/learn/data-pipelines-tensorflow)
+    * [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow)
 
 ## Guide to Kaggle
 Below are the Kaggle projects/competitions I recommend taking. As with the MOOCs, they are roughly sorted in the order they should be completed. When working on Kaggle competitions, you should push your results to your public github. This will beef-up your github account while giving you practice of working with git and managing projects with models that may require large datasets and/or outputs large files that cannot be saved in git. Also, be sure to checkout the Notebooks published on each project page. Seeing how other data scientists/ML experts do exploratory data analysis, feature engineering, model selection, and more, is one of the key reasons why doing projects via Kaggle can be so effective as a learning technique.
