@@ -52,8 +52,10 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
 
 1. [Coursera: Machine Learning, Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)</br>
 *This is a classic intro. to ML course. Almost everyone I've spoken to who moved into ML from another field said they took this course. It's pretty heavy on MatLab, which is a bit strange, but don't focus too much on learning MatLab, since all the other courses will focus on Python.*
-
-2. [DataCamp: Career Track: Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+2. [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+*git and [GitHub](https://github.com) is a foundational part of data science and software engineering generally. It allows you to implement version control, distribute your code more easily, and offers a public record of your work for others to view and/or build on. This course will get you started with git. I recommend that for you course you take moving forward, you create a new repo. and start 'commiting' your progress to github. This will get you interacting with git more frequently and you'll likely run into some issues, particularly related to commiting large files, which will also force you to learn more about git on your own.
+3. [DataCamp: Career Track: Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+*DataCamp courses are generally much shorter than Coursera courses. Furthermore, DataCamp uses it's own implementation of an IPython notebook (i.e. jupyter notebook) to have short-sequences of interactive code implemented throughout the courses. While you can just go through the courses and simply use their notebook sessions, I recommend you create a repo. for each of the courses and see if you can build your own jupyter notebook that reproduces the outputs/code you are getting in DataCamps notebook environment. As for this 'Career Track' itself, this will teach some basic foundationaly skills and concepts important to data science. 
     * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
     * [Intermediate Python](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     * [Project: TV, Halftime Shows, and the Big Game](https://www.datacamp.com/projects/684)
@@ -81,7 +83,8 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
     * [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
     * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-3. [DataCamp: Career Track: Coding Best Practices with Python](https://www.datacamp.com/tracks/coding-best-practices-in-python)
+4. [DataCamp: Career Track: Coding Best Practices with Python](https://www.datacamp.com/tracks/coding-best-practices-in-python)
+*Now that you've got some hands-on experience doing data science in Python, and (hopefully) you're super excited to learn more and answer the millions of questions about machine learning I'm sure you have, let's actually take a step back for a moment and polish up on some more foundational software skills more close to DevOps than data science. It is important to get these more foundational coding concepts down early, otherwise if you're starting to implement your own API or projects, you'll probably end up writing a lot of inefficient code which will be annoying to clean-up after you're much wiser and more experienced.
     * [Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
     * [Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
     * [Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
@@ -89,7 +92,7 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * [Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
     * [Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
     * [Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
-4. [DataCamp: Career Track: Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)
+5. [DataCamp: Career Track: Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
     * [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
     * [Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
@@ -113,19 +116,18 @@ Below are the MOOCs I recommend taking. They are roughly ordered, but you should
     * [Introduction to PySpark](https://www.datacamp.com/courses/introduction-to-pyspark)
     * [Machine Learning with PySpark](https://www.datacamp.com/courses/machine-learning-with-apache-spark)
     * [Winning a Kaggle Competition in Python](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
-5. [Coursera: Specialization: Deep Learning, deeplearning.ai](https://www.coursera.org/specializations/deep-learning)</br>
+6. [Coursera: Specialization: Deep Learning, deeplearning.ai](https://www.coursera.org/specializations/deep-learning)</br>
 *This series of courses will help you dive deeper into deep learning and neural networks. In my opinion, Tensorflow 1.x was a pretty confusing API. There are so many ways to do the same thing and just getting a model setup was a bit tedious. Tensorflow 2.x integrated another super popular neural network API, Keras, into its main code, and focused on using the much more elegant higher-level architecture building style that keras provides. Many of the early courses focused on neural networks will leverage Tensorflow 1.x and may show you some non-ideal styles of building models, however as you progress you'll start to leverage the keras-style of model definition, which will greatly simplify things.*
     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
     * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
     * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
     * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
     * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
-6. [Coursera: Specialization: Tensorflow in Practice, deeplearning.ai](https://www.coursera.org/specializations/tensorflow-in-practice#courses)
+7. [Coursera: Specialization: Tensorflow in Practice, deeplearning.ai](https://www.coursera.org/specializations/tensorflow-in-practice#courses)
     * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
     * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
     * [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
     * [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
-7. PLACEHOLDER
 8. PLACEHOLDER
 9. PLACEHOLDER
 10. PLACEHOLDER
